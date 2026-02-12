@@ -1,0 +1,13 @@
+package.jso
+vite.config.ts
+tsconfig.json
+tsconfig.node.json
+tailind.config.js
+postcss.config.js
+index.html
+vercel.json
+index.ts
+App.tsx
+types.ts
+index.css
+capacitor.config.ts
